@@ -2,7 +2,7 @@
   "name": "HackingYourWorkLife__Balance",
   "version": "0.0.0",
   "description": "",
-  "homepage": "https://tehfedaykin.github.io/HackingYourWorkLife__Balance/",
+  "homepage": "https://tehfedaykin.github.io/NoSnowDaysWhenYouWorkRemote/",
   "subdomain": "",
   "main": "js/reveal.js",
   "scripts": {
@@ -14,12 +14,12 @@
   },
   "author": {
     "name": "Jennifer Wadella",
-    "email": "jennifer.wadella@kcwomenintech.org",
+    "email": "jennifer.wadella@gmail.com",
     "web": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tehfedaykin/CodingWithJewelBots.git"
+    "url": "https://github.com/tehfedaykin/NoSnowDaysWhenYouWorkRemote.git"
   },
   "engines": {
     "node": ">=4.0.0"
